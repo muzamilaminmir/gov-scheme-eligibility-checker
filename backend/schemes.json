@@ -1,0 +1,242 @@
+[
+    {
+        "name": "PM Kisan Samman Nidhi",
+        "type": "Central",
+        "min_age": 18,
+        "max_age": 100,
+        "max_income": 10000000,
+        "occupation": [
+            "Farmer"
+        ],
+        "gender": [
+            "All"
+        ],
+        "states": [
+            "All"
+        ],
+        "min_education": "None",
+        "description": "Income support of Rs. 6,000 per year in three equal installments to all landholding farmer families.",
+        "apply_link": "https://pmkisan.gov.in/"
+    },
+    {
+        "name": "Pradhan Mantri Awas Yojana (Gramin)",
+        "type": "Central",
+        "min_age": 18,
+        "max_age": 100,
+        "max_income": 300000,
+        "occupation": [
+            "Unemployed",
+            "Farmer",
+            "Laborer",
+            "All"
+        ],
+        "gender": [
+            "All"
+        ],
+        "states": [
+            "All"
+        ],
+        "min_education": "None",
+        "description": "Provides financial assistance for the construction of pucca houses for rural poor.",
+        "apply_link": "https://pmayg.nic.in/"
+    },
+    {
+        "name": "Ayushman Bharat (PM-JAY)",
+        "type": "Central",
+        "min_age": 0,
+        "max_age": 100,
+        "max_income": 250000,
+        "occupation": [
+            "Unemployed",
+            "Farmer",
+            "Laborer",
+            "All"
+        ],
+        "gender": [
+            "All"
+        ],
+        "states": [
+            "All"
+        ],
+        "min_education": "None",
+        "description": "Health insurance cover of up to Rs. 5 lakh per family per year for secondary and tertiary care hospitalization.",
+        "apply_link": "https://nha.gov.in/PM-JAY"
+    },
+    {
+        "name": "Stand Up India Scheme",
+        "type": "Central",
+        "min_age": 18,
+        "max_age": 100,
+        "max_income": 100000000,
+        "occupation": [
+            "Woman Entrepreneur",
+            "Business"
+        ],
+        "gender": [
+            "Female"
+        ],
+        "states": [
+            "All"
+        ],
+        "min_education": "12th Pass",
+        "description": "Facilitates bank loans between 10 lakh and 1 crore to at least one SC/ST borrower and one woman borrower per bank branch.",
+        "apply_link": "https://www.standupmitra.in/"
+    },
+    {
+        "name": "PM Mudra Yojana",
+        "type": "Central",
+        "min_age": 18,
+        "max_age": 65,
+        "max_income": 100000000,
+        "occupation": [
+            "Business",
+            "Woman Entrepreneur",
+            "Farmer"
+        ],
+        "gender": [
+            "All"
+        ],
+        "states": [
+            "All"
+        ],
+        "min_education": "None",
+        "description": "Provides loans up to 10 lakh to non-corporate, non-farm small/micro enterprises.",
+        "apply_link": "https://www.mudra.org.in/"
+    },
+    {
+        "name": "Pradhan Mantri Shram Yogi Maan-dhan (PM-SYM)",
+        "type": "Central",
+        "min_age": 18,
+        "max_age": 40,
+        "max_income": 180000,
+        "occupation": [
+            "Unemployed",
+            "Laborer",
+            "Salaried"
+        ],
+        "gender": [
+            "All"
+        ],
+        "states": [
+            "All"
+        ],
+        "min_education": "None",
+        "description": "Old age protection and social security of Unorganised Workers in the form of a monthly pension of Rs. 3,000.",
+        "apply_link": "https://maandhan.in/shramyogi"
+    },
+    {
+        "name": "Ladli Laxmi Yojana 2.0",
+        "type": "State",
+        "min_age": 0,
+        "max_age": 21,
+        "max_income": 200000,
+        "occupation": [
+            "Student"
+        ],
+        "gender": [
+            "Female"
+        ],
+        "states": [
+            "Madhya Pradesh"
+        ],
+        "min_education": "Primary",
+        "description": "Financial assistance for education and overall development of girl children in MP.",
+        "apply_link": "https://ladlilaxmi.mp.gov.in/"
+    },
+    {
+        "name": "Kanya Sumangala Yojana",
+        "type": "State",
+        "min_age": 0,
+        "max_age": 25,
+        "max_income": 300000,
+        "occupation": [
+            "Student"
+        ],
+        "gender": [
+            "Female"
+        ],
+        "states": [
+            "Uttar Pradesh"
+        ],
+        "min_education": "Primary",
+        "description": "Conditional cash transfer to the girl child's family from birth through various educational milestones.",
+        "apply_link": "https://mksy.up.gov.in/"
+    },
+    {
+        "name": "Rythu Bandhu Scheme",
+        "type": "State",
+        "min_age": 18,
+        "max_age": 100,
+        "max_income": 10000000,
+        "occupation": [
+            "Farmer"
+        ],
+        "gender": [
+            "All"
+        ],
+        "states": [
+            "Telangana"
+        ],
+        "min_education": "None",
+        "description": "Investment support to farmers for two crops a year.",
+        "apply_link": "http://rythubandhu.telangana.gov.in/"
+    },
+    {
+        "name": "PM-VISHWAKARMA",
+        "type": "Central",
+        "min_age": 18,
+        "max_age": 100,
+        "max_income": 1000000,
+        "occupation": [
+            "Business",
+            "Laborer"
+        ],
+        "gender": [
+            "All"
+        ],
+        "states": [
+            "All"
+        ],
+        "min_education": "None",
+        "description": "Support for traditional artisans and craftspeople through skill upgradation and credit support.",
+        "apply_link": "https://pmvishwakarma.gov.in/"
+    },
+    {
+        "name": "Atal Pension Yojana",
+        "type": "Central",
+        "min_age": 18,
+        "max_age": 40,
+        "max_income": 10000000,
+        "occupation": [
+            "All"
+        ],
+        "gender": [
+            "All"
+        ],
+        "states": [
+            "All"
+        ],
+        "min_education": "None",
+        "description": "Guaranteed minimum monthly pension for workers in the unorganized sector.",
+        "apply_link": "https://npscra.nsdl.co.in/scheme-details.php"
+    },
+    {
+        "name": "Chief Minister's Breakfast Scheme",
+        "type": "State",
+        "min_age": 5,
+        "max_age": 15,
+        "max_income": 1000000,
+        "occupation": [
+            "Student"
+        ],
+        "gender": [
+            "All"
+        ],
+        "states": [
+            "Tamil Nadu"
+        ],
+        "min_education": "Primary",
+        "description": "Providing nutritious breakfast to students of Class 1-5 in government primary schools.",
+        "apply_link": "https://www.tn.gov.in/"
+    }
+]

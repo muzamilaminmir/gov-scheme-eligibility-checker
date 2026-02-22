@@ -2,7 +2,7 @@
 
 A professional, high-performance web application designed to help Indian citizens quickly identify government schemes they are eligible for based on their unique demographic profile.
 
-![Hero Preview](https://github.com/muzamilaminmir/gov-scheme-eligibility-checker/raw/main/hero_preview.png) *(Note: Replace with actual screenshot after push)*
+
 
 ## ✨ Key Features
 
